@@ -33,23 +33,14 @@
     <p>
       <strong>Certainly! Here's a simplified explanation:
 
-      Imagine your database as a giant electronic filing cabinet with lots of drawers and folders. Each drawer holds specific information, and you need a way to organize and retrieve data from these drawers efficiently. That's where TypeORM comes in.
-
-      TypeORM acts like an expert librarian for your database, helping you:</strong>
+Imagine your database as a giant electronic filing cabinet with lots of drawers and folders. Each drawer holds specific information, and you need a way to organize and retrieve data from these drawers efficiently. That's where TypeORM comes in. 
+TypeORM acts like an expert librarian for your database, helping you:</strong>
 <p> 
- 
-      </p>
   <br><strong>1. Define Data Models:</strong> You can describe the structure of your data (like tables in a spreadsheet) using TypeScript or JavaScript classes. These classes represent tables in your database and define what kind of data can be stored in each table.TypeORM is designed to work with TypeScript and JavaScript, providing strong typing and code completion support when using TypeScript. This makes it a preferred choice for developers who want to build type-safe applications.
   <br>
     <br><strong>2. Perform Database Operations:</strong> TypeORM provides a set of easy-to-use methods and queries that allow your application to interact with the database seamlessly. It can handle tasks like creating, reading, updating, and deleting data in a structured way.
 <br>
-
-    <br><strong>3. Mapping Data:</strong> TypeORM maps the data in your code (objects and classes) to the data in your database tables, so you can work with them more easily. <br>
-
-    <br><strong>4. Database Synchronization:</strong> It can even help you automatically generate database tables based on your defined data models. This means you don't have to manually create tables; TypeORM can do it for you.<br>
-
-
-    <br><em>In summary, TypeORM simplifies the process of working with databases, making it easier for developers to create, manage, and access data without getting bogged down in complex database queries and operations. It's a valuable tool for backend developers who want to build efficient and maintainable database-driven applications.</em><br>
-      </p>
-    <img src="https://raw.githubusercontent.com/thecatfix/gifs/main/CatFIX%20Paul%20Allen%20Card.gif" </img>
+ <br><strong>3. Mapping Data:</strong> TypeORM maps the data in your code (objects and classes) to the data in your database tables, so you can work with them more easily. <br>
+<br><strong>4. Database Synchronization:</strong> It can even help you automatically generate database tables based on your defined data models. This means you don't have to manually create tables; TypeORM can do it for you.<br>
+<br><em>In summary, TypeORM simplifies the process of working with databases, making it easier for developers to create, manage, and access data without getting bogged down in complex database queries and operations. It's a valuable tool for backend developers who want to build efficient and maintainable database-driven applications.</em><br>
   </body>
