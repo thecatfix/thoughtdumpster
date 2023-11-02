@@ -9,4 +9,6 @@ As of Nov 2 2023 I have the skills of a 5th grader for writing html and I really
 <br>
   <strong>Warning this might be a few entries but I am going to attempt to have some semblence of my work.</strong>
 <em>btw i did the warning b/c i learned what a strong tag was last night!!!</em>
- ![sup_world_star](https://github.com/thecatfix/gifs/blob/main/worldstar.gif)
+
+
+![sup_world_star](https://github.com/thecatfix/gifs/blob/main/worldstar.gif)
