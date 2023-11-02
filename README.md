@@ -9,5 +9,5 @@ As of Nov 2 2023 I have the skills of a 5th grader for writing html and I really
 <br>
   <strong>Warning this might be a few entries but I am going to attempt to have some semblence of my work.</strong>
 <em>btw i did the warning b/c i learned what a strong tag was last night!!!</em>
-  <img = src:"https://raw.githubusercontent.com/thecatfix/gifs/main/worldstar.gif">
+ ![Its_down_there_somewhere]([[https://github.com/thecatfix/gifs/blob/main/worldstar.gif]
 </body>
