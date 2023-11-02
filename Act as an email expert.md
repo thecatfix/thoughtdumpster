@@ -298,7 +298,7 @@ Another example, although not a 'memo' in the corporate sense, is the annual sha
 
 McKinsey & Company's Communication Style:
 
-Additionally, McKinsey & Company, the global management consulting firm, is known for its clear and structured communication style. While not limited to memos, the firm has a strong reputation for the quality and effectiveness of its written reports and presentations, often characterized by the "Pyramid Principle" of communication introduced by Barbara Minto.
+Additionally, McKinsey & Company, the global management consulting firm, is known for its clear and structured communication style. While not limited to memos, the firm has a strong reputation for the quality and effectiveness of its written reports and presentations, often characterized by the !["Pyramid Principle" of communication introduced by Barbara Minto.](source:https://www.barbaraminto.com/textbook.html)
 
 Goldman Sachs Client Communications:
 
