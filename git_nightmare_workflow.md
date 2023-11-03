@@ -15,7 +15,7 @@ So I made the commitment and I am done right......WRONG
 I had to create a pull request and this is where this gets confusing AF.
 
 The pull request will merge the rough_draft version of the file into the main branch.
-
+THINK ABOUT BRANCHES Johnboy!!!! The thoughtdumpster doesn't have branches!
 This is the point where you want to have someone review the version of the file that is being committed. But here is the fckd up thing to me....is this file even deployed to an environment that shows up anywhere???? Don't you have to package all of this nonsense into a package and then deploy it?
 
 Think about that!
