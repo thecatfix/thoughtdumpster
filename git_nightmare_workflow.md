@@ -6,8 +6,8 @@ Create a branch that is not the production (GitHub calls it Main or that is stan
 I created rough_draft (aka "dev" in nerdspeak).
 rough_draft took the readme.md file that I had in main and let me make edits.
 
-Then i made what is called a commit. Is that a commitment to something? WTF does it mean? I am committing the file to some higher source or is this using the word commit like boyfriend / girlfriend speak.
-
+Then i made what is called a commit. Is that a commitment to something? What does it mean? I am committing the file to some higher source or is this using the word commit like boyfriend / girlfriend speak.
+(now i am going to make changes on the web UI)
 Then I publish from my desktop tot Github webpage.
 
 So I made the commitment and I am done right......WRONG
