@@ -12,3 +12,4 @@ As of Nov 2 2023 I have the skills of a 5th grader for writing html and I really
 <br>
 
 ![sup_world_star](https://github.com/thecatfix/gifs/blob/main/worldstar.gif)
+https://cloud.google.com/vertex-ai/docs/tutorials/jupyter-notebooks
