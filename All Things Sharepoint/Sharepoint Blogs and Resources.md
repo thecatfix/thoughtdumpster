@@ -53,6 +53,6 @@ A curated list of SharePoint resources to help you stay informed and improve you
 
 - [**How to Get SignIn with LinkedIn to work**](https://www.linkedin.com/help/linkedin/answer/93841/how-to-get-signin-with-linkedin-to-work?lang=en) - LinkedIn Help Center article explaining how to configure LinkedIn as an identity provider for sign-in.
 
-- [**My Site Settings**](https://catfix-admin.sharepoint.com/sites/catfix-my/my%20settings/Pages/My%20Settings.aspx) - The My Site Settings page in SharePoint Online for managing your user profile and preferences. 
+- [**My Site Settings**]- The My Site Settings page in SharePoint Online for managing your user profile and preferences. 
 
 - [**Company Branding**](https://entra.microsoft.com/AdminPortal/Home#/companyprofile/branding) - Customize branding in the Microsoft Entra admin center.
