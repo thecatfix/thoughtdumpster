@@ -14,7 +14,7 @@ A curated list of SharePoint resources to help you stay informed and improve you
 - [Nate Chamberlain](https://natechamberlain.com/): Nate Chamberlain shares his expertise on SharePoint and Office 365, with resources including books, blogs, and speaking engagements.
 - [Norm Young](https://normyoung.ca/): An experienced SharePoint professional, Norm Young provides insights into document management and collaboration within SharePoint.
 
-- [**SharePoint Online Azure AD B2B – Custom email invites for users using PowerShell**](https://ericschrader.wordpress.com/2020/03/11/sharepoint-online-azure-ad-b2b-custom-email-invites-for-users-using-powershell-solving-sharepoint-issues/) - This article by Eric Schrader explains how to use PowerShell to send customized B2B invitation emails in SharePoint Online.
+- [**SharePoint Online Azure AD B2B – Custom email invites for users using PowerShell**](https://ericschrader.wordpress.com/2017/06/12/sharepoint-online-azure-ad-b2b-custom-email-invites-for-users-using-powershell/)This article by Eric Schrader explains how to use PowerShell to send customized B2B invitation emails in SharePoint Online.
 
 - [**PnP PowerShell**](https://pnp.github.io/powershell/) - The Patterns and Practices PowerShell library provides cmdlets for managing SharePoint and Office 365. 
 ## Videos 🎥
