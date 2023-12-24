@@ -7,10 +7,10 @@
 I am going to attempt to keep track of some experiments/homework/wtfamidoing in this repository.<br>
 As of Nov 2 2023 I have the skills of a 5th grader for writing html. However, I need to learn why version control is important and how to use it.</p>
 <br>
-  <strong>Warning this might be a few entries but I am going to attempt to have some semblence of my work.</strong><br>
-<em>btw i did the warning b/c i learned what a strong tag was last night!!!</em>
-<br>
 
+# Update 12/23/2023 - Thanks YOU [Gautam krishna R](https://github.com/gautamkrishnar)! 
+## His page gives you great ideas for your README page that force you to learn version control
+  
 ![sup_world_star](https://github.com/thecatfix/gifs/blob/main/worldstar.gif)
 
 
