@@ -1,6 +1,6 @@
 <h1 id="apache-beamsupsup-downloads">Apache Beam<sup>®</sup> Downloads</h1><blockquote><p>Beam SDK 2.52.0 is the latest released version.</p></blockquote><h2 id="using-a-central-repository">Using a central repository</h2><p>the Python SDK is available on <a href="https://pypi.python.org/pypi/apache-beam">PyPI</a>.</p>
     
-    <h2 id="releases">Releases</h2><h3 id="2520-2023-11-17">2.52.0 (2023-11-17)</h3><p>Official <a href="https://downloads.apache.org/beam/2.52.0/apache-beam-2.52.0-source-release.zip">source code download</a>.
+<h2 id="releases">Releases</h2><h3 id="2520-2023-11-17">2.52.0 (2023-11-17)</h3><p>Official <a href="https://downloads.apache.org/beam/2.52.0/apache-beam-2.52.0-source-release.zip">source code download</a>.
     <a href="https://downloads.apache.org/beam/2.52.0/apache-beam-2.52.0-source-release.zip.sha512">SHA-512</a>.
     <a href="https://downloads.apache.org/beam/2.52.0/apache-beam-2.52.0-source-release.zip.asc">signature</a>.</p><p><a href="https://github.com/apache/beam/releases/tag/v2.52.0">Release notes</a>
     <a href="/blog/beam-2.52.0">Blog post</a>.</p><h3 id="2510-2023-10-11">2.51.0 (2023-10-11)</h3><p>Official <a href="https://archive.apache.org/beam/2.51.0/apache-beam-2.51.0-source-release.zip">source code download</a>.
